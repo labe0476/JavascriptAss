@@ -7,6 +7,7 @@ function equalto() {
   output.value = eval(output.value);
 }
 
-function clear() {
+function clearIt() {
   output.value = '';
 }
+
