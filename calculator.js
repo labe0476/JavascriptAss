@@ -11,3 +11,7 @@ function clearIt() {
   output.value = '';
 }
 
+function del() {
+  output.value =  output.value.slice(0, -1);
+}
+
